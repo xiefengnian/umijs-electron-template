@@ -1,0 +1,7 @@
+.electron
+.github
+node_modules
+src/.umi
+yarn.lock
+yarn-error.lock
+.npmignore
