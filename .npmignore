@@ -3,5 +3,5 @@
 node_modules
 src/.umi
 yarn.lock
-yarn-error.lock
+yarn-error.log
 .npmignore
