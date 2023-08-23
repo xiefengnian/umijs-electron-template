@@ -1,6 +1,6 @@
 {
   "name": "@umijs/electron-template",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": {
     "dev": "umi dev",
     "build": "umi build",
