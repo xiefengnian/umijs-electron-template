@@ -22,5 +22,15 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
-  }
+  },
+  "files": [
+    "src/**/*",
+    "tsconfig.json",
+    ".npmrc",
+    ".gitignore",
+    "README.md",
+    ".umirc.ts",
+    "package.json",
+    "typings.d.ts"
+  ]
 }
